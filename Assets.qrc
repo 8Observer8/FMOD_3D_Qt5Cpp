@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Assets/drumloop.wav</file>
+    </qresource>
+</RCC>
